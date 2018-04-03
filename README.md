@@ -1,0 +1,2 @@
+# HuffmanEncoder
+Huffman Encoder project
